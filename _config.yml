@@ -21,11 +21,11 @@
 title: Capital Area Crisis RFC 
 email: crisisrfc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Capital Area Crisis RFC is the Lansing Michigan are rugby team.
+  Capital Area Crisis RFC is the Lansing Michigan area rugby team.
   Competing in the USA Rugby Midwest division since 2013.
 #url: "https://lansingrugby.com" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://lansingrugby.com" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: "lansingcrisisrugby"
+facebook_username: "lansingrugby"
 donate: ""
 banner_title: Crisis RFC
 banner_subtitle: Lansing Michigan's Rugby Club
