@@ -1,0 +1,27 @@
+<footer class="footer">
+    <div class="content has-text-centered">
+
+        <a href="https://facebook.com/{{ site.facebook_username }}" data-toggle="tooltip" title="Facebook">
+          <span class="fa-stack fa-lg">
+             <i class="fa fa-circle fa-stack-2x"></i>
+             <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        <a href="mailto:{{ site.email }}" data-toggle="tooltip" target="_blank" title="Email">
+          <span class="fa-stack fa-lg">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+
+        <a href="{{ "/feed.xml" | prepend: site.url }}" data-toggle="tooltip" title="Feed">
+          <span class="fa-stack fa-lg">
+             <i class="fa fa-circle fa-stack-2x"></i>
+             <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        </br>
+
+        <p>Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+    </div>
+</footer>
