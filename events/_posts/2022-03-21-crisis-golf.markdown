@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Golf Outing"
+title:  "2022 Golf Outing"
 date:   2022-03-19 20:55:12 -0400
 ---
   <p>The lansing crisis wil be hosting a golf outing on July 9th at the Grand Ledge Meadows country club.</p>
